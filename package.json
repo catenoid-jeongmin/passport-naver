@@ -1,7 +1,7 @@
 {
   "name": "passport-naver-v2",
   "version": "2.0.0",
-  "description": "Naver authentication strategy for Passport",
+  "description": "Naver authentication strategy for Passport V2",
   "keywords": [
     "passport",
     "naver",
@@ -12,16 +12,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:catenoid-jeongmin/passport-naver.git"
+    "url": "git@github.com:catenoid-jeongmin/passport-naver-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/catenoid-jeongmin/passport-naver/issues"
+    "url": "https://github.com/catenoid-jeongmin/passport-naver-v2/issues"
   },
   "author": {
     "name": "Jeongmin Yun",
     "email": "jm.yun@catenoid.net"
   },
   "contributors": [
+    {
+      "name": "Young-il Cho",
+      "email": "youngil.cho@navercorp.com",
+      "url": "http://github.com/terzeron"
+    },
     {
       "name": "Chanhee Kim",
       "email": "chanhee.kim@navercorp.com"
@@ -47,5 +52,5 @@
     "passport-oauth": "^1.0.0"
   },
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/catenoid-jeongmin/passport-naver"
+  "homepage": "https://github.com/catenoid-jeongmin/passport-naver-v2"
 }
